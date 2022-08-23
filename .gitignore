@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+TeleportTest/Library/*
+TeleportTest/Logs/*
+TeleportTest/Obj/*
